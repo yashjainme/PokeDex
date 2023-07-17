@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background: linear-gradient(to right, rgb(55, 59, 68), rgb(66, 134, 244));
+  font-family: 'Baloo 2', cursive;
+}
